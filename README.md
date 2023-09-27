@@ -1,8 +1,9 @@
-# Sobre mí 👨‍💻
-¡Saludos! Soy Santiago Benitez Uran, un entusiasta de la tecnología con un profundo deseo de perfeccionar mis habilidades en los campos del Software y Hardware. ¡Te doy la bienvenida a mi perfil de GitHub! 👀
+# ¡Hola, soy Santiago Benitez Uran! 👨‍💻
 
-## Habilidades ⌨️
-Aquí puedes observar algunas de mis competencias, y siempre estoy dispuesto a ampliar mi conocimiento:
+¡Bienvenido a mi rincón en GitHub! Soy un apasionado de la tecnología, constantemente buscando oportunidades para expandir mis conocimientos en el mundo del software y hardware. ¡Acompáñame en mi viaje hacia la excelencia tecnológica! 👀
+
+## Habilidades 🚀
+Aquí tienes una muestra de mis habilidades, ¡y siempre estoy listo para aprender más!
 
 - 💻 Angular
 - 🚀 Express
@@ -24,28 +25,27 @@ Aquí puedes observar algunas de mis competencias, y siempre estoy dispuesto a a
 - 📋 Trello
 - 🎨 Figma
 
+## Explorando Nuevos Horizontes 💡
+Siempre estoy ansioso por descubrir más. Algunas de mis áreas de interés incluyen:
 
+- 🔗 React
+- 💻 Sistemas Operativos: Linux
 
-## Áreas de interés 💿
-Estoy ansioso por adquirir habilidades en:
+## Mis Proyectos 💾
+Aquí tienes una vista rápida de algunos de los proyectos en los que he trabajado:
 
-- React
-- Sistemas operativos: Linux y Windows
+- 🔨 Django (Empleabilidad)
+- ✅ MEAN Full Stack (Lista de Tareas)
+- 🦸‍♂️ MEAN Full Stack (Asistente Hero)
+- 📚 MEAN Full Stack (Foro de Biblioteca)
+- 📝 Django REST Framework (Ejemplo de Biblioteca)
+- 📦 FastAPI CRUD (Sistema de Inventario)
+- 🧬 Programación Orientada a Objetos (POO)
+- 🎉 Programación Orientada a Eventos (POE)
 
-## Proyectos 💾
-Estos son algunos de los proyectos en los que he trabajado:
+## Conéctate Conmigo 📱
+No dudes en contactarme a través de estas plataformas:
 
-- Django (Empleabilidad)
-- MEAN Full Stack (Lista de tareas)
-- MEAN Full Stack (Asistente Hero)
-- MEAN Full Stack (Foro de biblioteca)
-- Django REST Framework (Ejemplo de biblioteca)
-- FastAPI CRUD (Sistema de inventario)
-- Programación Orientada a Objetos (POO)
-- Programación Orientada a Eventos (POE)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/santib)
 
-## Contáctame 📱
-No dudes en encontrarme en las siguientes plataformas:
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/santib)
 - Torre: [Mi perfil en Torre](https://torre.ai/s/ecBx7lXUzY)

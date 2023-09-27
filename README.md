@@ -48,4 +48,4 @@ No dudes en contactarme a través de estas plataformas:
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/santib)
 
-- Torre: [Mi perfil en Torre](https://torre.ai/s/ecBx7lXUzY)
+- Torre: [Mi perfil en Torre](https://torre.ai/santiagobenitezuran?r=J2SUC7HO)

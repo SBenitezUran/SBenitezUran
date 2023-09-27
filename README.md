@@ -4,25 +4,26 @@
 ## Habilidades ⌨️
 Aquí puedes observar algunas de mis competencias, y siempre estoy dispuesto a ampliar mi conocimiento:
 
-- :computer: Angular
-- :rocket: Express
-- :snake: Django
-- :fast_forward: FastApi
-- :page_facing_up: HTML5
-- :art: CSS3
-- :boot: Bootstrap
-- :wind: Tailwind CSS
-- :nail_care: Sass
-- :snake: Python
-- :fire: JavaScript
-- :label: TypeScript
-- :hammer: CLI
-- :database: MySQL
-- :postbox: Postman
-- :leaves: MongoDB
-- :green_circle: Node.js
-- :clipboard: Trello
-- :art: Figma
+- 💻 Angular
+- 🚀 Express
+- 🐍 Django
+- ⏩ FastApi
+- 📄 HTML5
+- 🎨 CSS3
+- 👢 Bootstrap
+- 🌬️ Tailwind CSS
+- 💅 Sass
+- 🐍 Python
+- 🔥 JavaScript
+- 🏷️ TypeScript
+- 🔨 CLI
+- 📦 MySQL
+- 📮 Postman
+- 🍃 MongoDB
+- 🟢 Node.js
+- 📋 Trello
+- 🎨 Figma
+
 
 
 ## Áreas de interés 💿

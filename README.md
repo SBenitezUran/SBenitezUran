@@ -47,5 +47,5 @@ Estos son algunos de los proyectos en los que he trabajado:
 ## Contáctame 📱
 No dudes en encontrarme en las siguientes plataformas:
 
-- LinkedIn: www.linkedin.com/in/santib(linkedin)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/santib)
 - Torre: [Mi perfil en Torre](https://torre.ai/s/ecBx7lXUzY)
